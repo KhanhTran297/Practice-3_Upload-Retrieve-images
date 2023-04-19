@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1023854851931",
+    "firebase_url": "https://fir-test-98460-default-rtdb.firebaseio.com",
+    "project_id": "fir-test-98460",
+    "storage_bucket": "fir-test-98460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023854851931:android:a2350562812b4fcb948c7e",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.practice1_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023854851931-fb2kqqrr7dthnkbets2il3enl73q39h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAG_6bMkFQK-jfmrDkdGY1R-CqeZeuRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023854851931-fb2kqqrr7dthnkbets2il3enl73q39h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023854851931:android:9253bcbc0f6f803f948c7e",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.practice2_playasongfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023854851931-fb2kqqrr7dthnkbets2il3enl73q39h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAG_6bMkFQK-jfmrDkdGY1R-CqeZeuRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023854851931-fb2kqqrr7dthnkbets2il3enl73q39h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023854851931:android:e81474ae740ab8ad948c7e",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.practice3_uploadretrieveimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023854851931-fb2kqqrr7dthnkbets2il3enl73q39h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAG_6bMkFQK-jfmrDkdGY1R-CqeZeuRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023854851931-fb2kqqrr7dthnkbets2il3enl73q39h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
